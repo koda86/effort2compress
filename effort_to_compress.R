@@ -30,7 +30,7 @@
 #     1. Nithin Nagaraj, Karthi Balasubramanian, Sutirth Dey, A New Complexity Measure For 
 #     Time Series Analysis and Classification, Eur. Phys. J. Special Topics 222, 847-860 (2013)
 
-#     2. W. Ebeling, M.A. Jiménez-Montano, On Grammars, Complexity, and 
+#     2. W. Ebeling, M.A. JimÃ©nez-Montano, On Grammars, Complexity, and 
 #     Information Measures of Biological Macromolecules, Mathematical Biosciences 52, (1980) 53-71.
 #
 # The latest version of this program can be downloaded from the following websites:
@@ -47,9 +47,8 @@
 #
 # Transcription from Matlab: Daniel Koska, Chemnitz University of Technology, Feb. 2021.
 
-
+# ------------------------------------------------------------------------------
 # Wrapper function
-
 # ------------------------------------------------------------------------------
 ETC <- function (InputTS, ...) {
   
