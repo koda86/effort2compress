@@ -5,3 +5,6 @@ R implementation of the effort to compress (ETC) algorithm (Nagaraj et al., 2013
 
 - Matlab, Python and R Code for ETC on the website of Nithin Nagaraj: https://sites.google.com/site/nithinnagaraj2/journal/software-toolbox-for-etc-measure
 - Python implementation: https://github.com/pranaysy/ETCPy
+
+
+TODO: Add example to demonstrate usage
