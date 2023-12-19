@@ -52,7 +52,6 @@
 # ------------------------------------------------------------------------------
 ETC <- function (InputTS, ...) {
   
-  # What am I doing here?
   args <- list(...)
   
   if (length(args) == 0) {
